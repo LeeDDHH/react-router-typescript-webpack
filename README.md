@@ -21,7 +21,7 @@
 |     TypeScript     | 4.7.4  |
 |      webpack       | 5.73.0 |
 |    webpack-cli     | 4.10.0 |
-| webpack-dev-server | 4.9.2  |
+| webpack-dev-server | 4.9.3  |
 |  react-router-dom  | 6.3.0  |
 |        msw         | 0.42.3 |
 
